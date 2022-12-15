@@ -3,6 +3,9 @@
 Simple To-Do List
 with Provider (local save : Memory)
 
+<p float="left">
+    <img src="https://github.com/keemeesuu/flutter-todolist-with-provider/blob/main/images/onboarding.gif"  width="28%" />
+</p>
 
 used packages
 - [Provider](https://pub.dev/packages/provider/install)
