@@ -1,7 +1,6 @@
 # 🎯 Introduce
 
-Simple To-Do List
-with Provider (local save : Memory)
+Flutter simple To-Do List with provider. CRUD system. memory save.
 
 <p float="left">
     <img src="https://github.com/keemeesuu/flutter-todolist-with-provider/blob/main/images/onboarding.gif"  width="28%" />
@@ -16,6 +15,10 @@ used packages
 # 🎯 Point
 
 ## 📌 상태 관리(State Management) 이해하기
+
+
+![State management](https://flutter-ko.dev/assets/development/data-and-backend/state-mgmt/state-management-explainer-5495afe6c3d6162f145107fe45794583bc4f2b55be377c76a92ab210be74c033.gif)
+
 사용패키지 - Provider
 최신 상태의 데이터를 보여주도록 페이지 간 데이터를 주고받고 관리하는 행위.  
 데이타를 상태관리서비스 클래스에서 담당한다.  
