@@ -28,8 +28,12 @@ used packages
 
 ## 📌 Provider
 
-`Class Service extends` *`ChangeNotifier`*  
-다른 곳에 변경사항을 알림.  
+```dart 
+ClassName Service extends ChangeNotifier {
+    notifylisteners();
+}
+```
+다른 곳에 변경사항을 알려주는 기능.  
 해당 클래스의 데이타를 사용하는 페이지를 갱신시켜줄 수 있도록 알려준다.
 
 `notifylisteners();` : 이 메소드를 호출하면 위젯들을 갱신한다.  
