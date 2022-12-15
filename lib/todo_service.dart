@@ -12,7 +12,7 @@ class Todo {
 /// Todo Data 담당
 class TodoService extends ChangeNotifier {
   List<Todo> todoList = [
-    Todo('잠자기', false), // dummy data
+    Todo('Grocery Store', false), // dummy data
   ];
 
   /// Todo List 추가
