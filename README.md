@@ -57,7 +57,7 @@ ClassName Service extends ChangeNotifier {
 
 `List<클래스 데이터 타입> = []` 에 접근하려면 객체화를 시켜 넣어줘야 한다.
 
----
+<br>
 
 # 🎯 Reference
 
